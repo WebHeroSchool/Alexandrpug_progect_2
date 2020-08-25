@@ -4,19 +4,19 @@ html {
     padding-top: 25px;
     background-color:  #dfded0;
    }
-h1 {
+.h1 {
     font-family: 'Comfortaa', cursive;
     color: #07064e;
-    font-size:  15em;
-    text-align: center;
+    font-size:  9em;
     margin-top:0em;
     }
-h2 {
+.h2 {
+    text-align-last: center;
     font-family: 'Comfortaa', cursive;
     color: #07064e;
-    font-size: 8em;  
-    text-align: center;
-    margin-top:-1.3em;}
+    font-size: 4em; 
+    margin-top:-1.5em;
+}
 body {
     width: 60%;
     padding: 20px;
@@ -43,6 +43,9 @@ p  {
     text-decoration-line: underline;
     font-size: 1.7em;
     margin: 400px 0 0 60px;
+   }
+li {
+    list-style-type: none;
    }
 .radio {
     font-size: 1.2em;
