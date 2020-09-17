@@ -1,18 +1,16 @@
 html {
-    font-family:"https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap" 
-    rel="stylesheet" ;
+    font-family: 'Lobster', cursive; ;
     padding-top: 25px;
     background-color:  #dfded0;
    }
 .h1 {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Balsamiq Sans', cursive;
     color: #07064e;
     font-size:  9em;
     margin-top:0em;
     }
 .h2 {
     text-align-last: center;
-    font-family: 'Comfortaa', cursive;
     color: #07064e;
     font-size: 4em; 
     margin-top:-1.5em;
