@@ -1,0 +1,66 @@
+html {
+    font-family:"https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap" 
+    rel="stylesheet" ;
+    padding-top: 25px;
+    background-color:  #dfded0;
+   }
+.h1 {
+    font-family: 'Comfortaa', cursive;
+    color: #07064e;
+    font-size:  9em;
+    margin-top:0em;
+    }
+.h2 {
+    text-align-last: center;
+    font-family: 'Comfortaa', cursive;
+    color: #07064e;
+    font-size: 4em; 
+    margin-top:-1.5em;
+}
+body {
+    width: 60%;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 9px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    background-color: #ecdf2a;
+    }
+div {
+    width: 50%;
+    text-align: left;
+    float: left;
+    font-size: 3em ;
+    font-weight: bold;
+    }
+.intro {
+    width: 50%;
+    text-align: right;
+    float: left;
+    font-size: 3em ;
+    font-weight: bold;
+    }
+p  {
+    text-decoration-line: underline;
+    font-size: 1.7em;
+    margin: 400px 0 0 60px;
+   }
+li {
+    list-style-type: none;
+   }
+.radio {
+    font-size: 1.2em;
+    margin:60px 0 0 40px;
+   }
+.radio1 {
+    font-size: 1.2em;
+     margin:20px 0 0 40px;  
+   }
+.radio2 {
+    font-size: 1.4em;
+    margin:20px 0 0 40px;
+  }
+.radio3 {
+    font-size: 1.4em;
+    margin:250px 0 0 40px;
+    text-decoration-line: none;
+    }
